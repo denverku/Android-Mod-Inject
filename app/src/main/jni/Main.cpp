@@ -54,7 +54,7 @@ extern "C" {
         const char *features[] = {
             OBFUSCATE("Category_The Category"),
             //Not counted
-            OBFUSCATE("Toggle_The toggle"),
+            OBFUSCATE("Toggle_The toggles"),
             OBFUSCATE(
                 "100_Toggle_True_The toggle 2"),
             //This one have feature number assigned, and switched on by default
